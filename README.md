@@ -1,3 +1,3 @@
 # MachineLearningScikitLearn
 
-Learning and work samples
+Learning and work samples on random forest 
